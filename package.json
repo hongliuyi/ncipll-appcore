@@ -1,0 +1,16 @@
+{
+  "name": "ncipll-appcore",
+  "version": "1.0.0",
+  "description": "a javascrip interactive with mobile app   utils for html5",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "app",
+    "core",
+    "appcore"
+  ],
+  "author": "hongliuyi",
+  "license": "MIT"
+}
